@@ -26,7 +26,11 @@ domain: antonioalopezfernandez.github.io
 url: "https://antonioalopezfernandez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: es
 google_analytics: G-4ZYLS8W9V7
-
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Build settings
 theme: minima
