@@ -21,9 +21,7 @@
 title: Portfolio de Antonio López Fernández
 email: antonio.angel.lopez.fernandez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Administrador de sistemas, con más de 10 años de experiencia demostrable en el sector. 
-  Me considero un apasionado de las nuevas tecnologías y, actualmente, compagino mi trabajo 
-  con el estudio y obtención de certificaciones profesionales
+  Administrador de sistemas, con más de 10 años de experiencia demostrable en el sector
 domain: antonioalopezfernandez.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://antonioalopezfernandez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
